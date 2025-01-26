@@ -1,4 +1,5 @@
-[
+{
+  "medicines":[
     {
       "name": "PCM",
       "brandNames": ["Crocin", "Dolo-650"],
@@ -49,3 +50,4 @@
       "about": "Used for eye-related problems like dryness, redness, and watery eyes."
     }
   ]
+}
