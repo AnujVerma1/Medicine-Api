@@ -1,0 +1,51 @@
+[
+    {
+      "name": "PCM",
+      "brandNames": ["Crocin", "Dolo-650"],
+      "safeDosage": "Adults: 500-1000mg every 4-6 hours, max 4000mg/day. Children: Dose as per age and weight, consult doctor.",
+      "precautions": "Avoid alcohol. Consult doctor for liver/kidney issues. Not recommended during pregnancy/breastfeeding without medical advice.",
+      "about": "Pain reliever and fever reducer. Available in tablets, capsules, and liquid forms."
+    },
+    {
+      "name": "Dolo",
+      "brandNames": ["Dolo-650"],
+      "safeDosage": "Adults: 500-1000mg every 4-6 hours, max 4000mg/day. Children: Dose as per age and weight, consult doctor.",
+      "precautions": "Avoid alcohol. Consult doctor for liver/kidney issues. Not recommended during pregnancy/breastfeeding without medical advice.",
+      "about": "Pain reliever and fever reducer. Available in tablets, capsules, and liquid forms."
+    },
+    {
+      "name": "Metformin",
+      "brandNames": ["Glucophage", "Fortamet"],
+      "safeDosage": "500-2000mg/day in divided doses. Dose adjusted by doctor based on blood sugar levels.",
+      "precautions": "Not suitable for people with kidney disease. Monitor for side effects like lactic acidosis.",
+      "about": "Medication used to lower blood sugar levels in people with type 2 diabetes."
+    },
+    {
+      "name": "B12",
+      "brandNames": ["Cyanocobalamin"],
+      "safeDosage": "As prescribed by doctor. Typically 1000-2000 mcg per day.",
+      "precautions": "Generally safe, but consult doctor for specific dosage and potential interactions.",
+      "about": "Essential vitamin for nerve function, blood cell production, and DNA synthesis."
+    },
+    {
+      "name": "Corex",
+      "brandNames": ["Corex", "Vicks Action 500"],
+      "safeDosage": "As per product instructions, consult doctor for children.",
+      "precautions": "May cause drowsiness. Avoid alcohol. Not suitable for children under certain ages. Consult doctor for persistent cough.",
+      "about": "Over-the-counter medication to relieve cough symptoms."
+    },
+    {
+      "name": "Aspirin",
+      "brandNames": ["Bayer", "Bufferin"],
+      "safeDosage": "Adults: 325-650mg every 4-6 hours, max 4000mg/day. Children: Consult doctor." ,
+      "precautions": "Avoid in children (risk of Reye's syndrome). Consult doctor for bleeding disorders." ,
+      "about": "Pain reliever, fever reducer, and blood thinner. Available in tablets, capsules, and powder forms."
+    },
+    {
+      "name": "Andre",
+      "brandNames": ["Andre"],
+      "safeDosage": "3 times a day",
+      "precautions": "Consult a doctor before use.", 
+      "about": "Used for eye-related problems like dryness, redness, and watery eyes."
+    }
+  ]
